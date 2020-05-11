@@ -24,6 +24,6 @@ The only source used from the internet other than the provided papers was for th
 [Problem 2 Part F Julia File](https://github.com/AndrewSimon-20/5440-Prelim/blob/master/Simon%2CAndrew%205440%20Prelim/Problem%202/Problem2PartF)
 
 
-All Julia files should be able to be run in Atom with the guidelines provided in the PDF when they are referenced to reproduce the graphs in the PDF.
+All Julia files should be able to be run in Atom through the include command with the guidelines provided when they are referenced in the PDF to reproduce the graphs in the PDF.
 
 
