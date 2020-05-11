@@ -3,13 +3,13 @@ Each Problem has been presented in its own file along with the Julia code and Ex
 
 The only source used from the internet other than the provided papers was for the dry cell mass of an E.Coli cell in problem 1 from [this website](http://ecmdb.ca/e_coli_stats). 
 
-*PROBLEM 1*
+**PROBLEM 1**
 
 [Problem 1 PDF](https://github.com/AndrewSimon-20/5440-Prelim/blob/master/Simon%2CAndrew%205440%20Prelim/Problem%201/Problem%201%20PDF%20(Final%20Version).pdf)
 
 [Problem 1 Excel Reference](https://github.com/AndrewSimon-20/5440-Prelim/blob/master/Simon%2CAndrew%205440%20Prelim/Problem%201/Problem%201.xlsx)
 
-*PROBLEM 2*
+**PROBLEM 2**
 
 [Problem 2 PDF](https://github.com/AndrewSimon-20/5440-Prelim/blob/master/Simon%2CAndrew%205440%20Prelim/Problem%202/Problem%202%20PDF%20(Final%20Version).pdf)
 
